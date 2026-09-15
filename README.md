@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| **Демо** | `<ссылка на Vercel — добавить после деплоя>` |
+| **Демо** | https://bailanysta-steel.vercel.app |
 | **Стек** | Next.js 16 (App Router) · TypeScript · PostgreSQL · Drizzle ORM · Tailwind CSS v4 |
 | **Тесты** | 14 сквозных проверок в реальном браузере (Playwright) |
 
